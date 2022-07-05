@@ -1,0 +1,50 @@
+[
+    {
+        "Product ID": 1,
+        "Product Title": "Uncharted 4 disks",
+        "STOCK": 30,
+        "price": 3500,
+        "discount": 500,
+        "Product_Type": "Gaming CDs"
+    },
+    {
+        "Product ID": 2,
+        "Product Title": "XBOX Controller",
+        "STOCK": 40,
+        "price": 7000,
+        "discount": 560,
+        "Product_Type": "Gamimng controller"
+    },
+    {
+        "Product ID": 3,
+        "Product Title": "Ball",
+        "STOCK": 47,
+        "price": 45,
+        "discount": 0,
+        "Product_Type": "playing ball"
+    },
+    {
+        "Product ID": 4,
+        "Product Title": "ygyw",
+        "STOCK": 33,
+        "price": 566,
+        "discount": 44,
+        "Product_Type": "feferf"
+    },
+    {
+        "Product ID": 5,
+        "Product Title": "jchuej",
+        "STOCK": 44,
+        "price": 4,
+        "discount": 0,
+        "Product_Type": "def"
+    },
+    {
+        "Product ID": 6,
+        "Product Title": "hdwu",
+        "STOCK": 44,
+        "price": 5,
+        "discount": 0,
+        "Product_Type": "fgfg"
+    }
+]

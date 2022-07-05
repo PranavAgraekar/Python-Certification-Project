@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Nathan Drake",
+        "phone": "8760091554",
+        "email": "Sam@gmail.com",
+        "password": "7879",
+        "cart": {
+            "07-03-2022": [
+                "PS5 Controller",
+                1,
+                "Uncharted 4 disks",
+                3
+            ]
+        },
+        "wishlist": {
+            "07-03-2022": [
+                "Uncharted 4",
+                2,
+                "XBOX Controller",
+                2
+            ]
+        },
+        "order_history": {
+            "07-03-2022": [
+                "Uncharted 4 disks",
+                1,
+                2250,
+                "Uncharted 4 disks",
+                3,
+                9000
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Peter Parker",
+        "phone": "743294783",
+        "email": "peter@gmail.com",
+        "password": "7786",
+        "cart": {},
+        "wishlist": {
+            "07-03-2022": [
+                "XBOX Controller",
+                1
+            ]
+        },
+        "order_history": {}
+    },
+    {
+        "id": 3,
+        "name": "Thanos",
+        "phone": "9983133367",
+        "email": "Kratos@gmail.com",
+        "password": "4566",
+        "cart": {},
+        "wishlist": {},
+        "order_history": {}
+    },
+    {
+        "id": 4,
+        "name": "Somit",
+        "phone": "8788905342",
+        "email": "Somit@gmail.com",
+        "password": "6687",
+        "cart": {},
+        "wishlist": {},
+        "order_history": {}
+    },
+    {
+        "id": 5,
+        "name": "Rishikesh",
+        "phone": "7793245451",
+        "email": "Rishi@gmail.com",
+        "password": "4434",
+        "cart": {},
+        "wishlist": {},
+        "order_history": {}
+    },
+    {
+        "id": 6,
+        "name": "Kratos",
+        "phone": "9923165654",
+        "email": "kratos@gmail.com",
+        "password": "5565",
+        "cart": {},
+        "wishlist": {},
+        "order_history": {}
+    },
+    {
+        "id": 7,
+        "name": "Dr Dre",
+        "phone": "678998759",
+        "email": "hygtg",
+        "password": "i876",
+        "cart": {},
+        "wishlist": {},
+        "order_history": {}
+    },
+    {
+        "id": 8,
+        "name": "Yathang",
+        "phone": "76372882",
+        "email": "2hshns",
+        "password": "hsn",
+        "cart": {},
+        "wishlist": {},
+        "order_history": {}
+    }
+]
